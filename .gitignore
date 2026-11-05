@@ -1,0 +1,6 @@
+# GitHub Profile README — .gitignore
+*.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
+
