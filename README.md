@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         CUSTOM AVATAR / LOGO                          -->
+<!--                        BRAND IDENTITY & AVATAR                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/sl-avatar.svg" width="150" height="150" alt="Sandeep L — SL Logo"/>
+<a href="https://github.com/Sandeep-loganathan">
+  <img src="./assets/sl-avatar.svg" width="145" height="145" alt="Sandeep L — SL Monogram Logo" />
+</a>
 
 <br/>
 
@@ -12,45 +14,70 @@
 <!--                    ANIMATED TYPING INTRODUCTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=4F8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;IoT+Enthusiast+%7C+ESP32+%7C+Arduino;Edge+AI+%26+TinyML+Explorer;Machine+Learning+Developer;VLSI+%26+RTOS+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=4F8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%26+Firmware+Developer;Edge+AI+%26+TinyML+Practitioner;IoT+Architect+%7C+ESP32+%7C+LoRa+%7C+Arduino;RISC-V+%26+VEGA+ARIES+Explorer;Real-Time+Operating+Systems+(QNX)+Dev)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Name & Headline -->
-<h1>
-  👋 Hi, I'm <span>Sandeep L</span>
-</h1>
+<h1>👋 Hi, I'm <span>Sandeep L</span></h1>
 
-<p>
-  <strong>Electronics &amp; Communication Engineer</strong>&nbsp;|&nbsp;
-  Embedded Systems&nbsp;·&nbsp;IoT&nbsp;·&nbsp;Edge AI&nbsp;·&nbsp;TinyML&nbsp;·&nbsp;VLSI
+<p align="center">
+  <b>Electronics &amp; Communication Engineer | Embedded Systems · IoT · Edge AI · TinyML · VLSI</b><br/>
+  <i>Bridging silicon and software — architecting intelligent, low-latency edge systems for the physical world.</i>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         SOCIAL BADGES (HEADER)                         -->
+<!--                        HERO METRIC BADGES                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p>
+<p align="center">
+  <a href="https://leetcode.com/u/Sandeep_664/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Innovasense-1st_Prize_%E2%82%B910K-4CAF50?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Innovasense First Prize"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CDAC_Vegathon_2026-Top_50_National-6C3483?style=for-the-badge&logo=riscv&logoColor=white" alt="CDAC Vegathon"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/QNX_RTOS-Certified-000000?style=for-the-badge&logo=blackberry&logoColor=white" alt="QNX Certified"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         SOCIAL HUB (HEADER)                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
   <a href="https://github.com/Sandeep-loganathan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sandeep--loganathan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Sandeep--loganathan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sandy006" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sandy006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sandeep_L-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Sandeep_664/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Sandeep__664-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Sandeep__664-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
   <a href="mailto:kvgsandeep006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kvgsandeep006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-kvgsandeep006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Sandeep-loganathan&label=Profile+Views&color=4f8ef7&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sandeep-loganathan&label=Profile+Views&color=4f8ef7&style=flat-square" alt="Profile Views"/>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        BY THE NUMBERS KPI                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+### 📊 By the numbers
+
+| 🏆 Hackathons & Awards | 🧩 DSA & Problem Solving | ⚡ Embedded & Edge AI | 📜 Professional Certifications |
+| :---: | :---: | :---: | :---: |
+| 🥇 **1st Prize** — Innovasense<br/>💰 **₹10,000** Cash Award<br/>🌟 **Top 50** CDAC Vegathon 2026<br/>💡 SSN Idea Pitch Participant | 🧠 **200+ Problems** Solved<br/>🎯 Algorithmic Efficiency<br/>⚡ C++, Java, Python<br/>📊 Intuitive Data Structures | 🤖 **5 Flagship Systems**<br/>📡 LoRa Mesh & Sensor Fusion<br/>🔌 ESP32, ESP32-S3, Arduino<br/>⚙️ RISC-V (VEGA ARIES V3) | 🛡️ **QNX RTOS** Programming<br/>🎓 **3× NPTEL (IIT)** Certified<br/>• Industry 4.0 & IIoT<br/>• Microsensors & Nanosensors |
 
 ---
 
@@ -61,32 +88,29 @@
 ## 🧑‍💻 About Me
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════╗
-║  Electronics & Communication Engineering student driven by the belief    ║
-║  that the most impactful technology lives at the intersection of         ║
-║  intelligent hardware and smart software.                                ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  Electronics & Communication Engineering student driven by practical innovation  ║
+║  at the intersection of resource-constrained hardware and intelligent software.  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-I build **intelligent hardware-software solutions** that solve real-world problems — from AI-powered safety systems deployed on microcontrollers to IoT networks that make physical environments smarter and safer.
+I engineer **intelligent hardware-software solutions** designed to operate reliably in the physical world. Rather than relying on cloud round-trips for mission-critical tasks, my work focuses on running real-time analytics, machine learning inference, and fail-safe automation directly on embedded microcontrollers and edge hardware.
 
-My engineering philosophy centres on **three pillars**:
+### 🏛️ Engineering Pillars
 
-- 🔬 **Practical Innovation** — Building systems that work in the field, not just on paper
-- ⚙️ **Hardware-Software Co-design** — Writing firmware that extracts maximum value from constrained silicon
-- 🧠 **Edge Intelligence** — Pushing ML inference down to microcontrollers where data is born
+- 🔬 **Practical Field Innovation** — Engineering robust, deployable systems designed for harsh environments (industrial workplaces, forest peripheries, outdoor heat zones).
+- ⚙️ **Hardware-Software Co-Design** — Squeezing maximum computational throughput from low-power silicon through efficient memory layouts, interrupt handling, and RTOS task scheduling.
+- 🧠 **Intelligence at the Edge** — Bringing TinyML and quantized neural networks onto microcontrollers where data is born, ensuring zero-cloud latency and privacy.
 
-**Current focus areas:**
+### 🎯 Primary Technical Focus
 
-| Domain | What I'm exploring |
-|--------|-------------------|
-| 🤖 **Edge AI / TinyML** | Deploying neural networks on ESP32-S3, optimizing for latency & power |
-| 📡 **IoT Architecture** | LoRa mesh networks, MQTT pipelines, sensor fusion |
-| 🏗️ **Embedded Systems** | RTOS scheduling, bare-metal firmware, peripheral drivers |
-| 🔬 **VLSI** | Digital design, RTL fundamentals, timing analysis |
-| 📊 **DSA** | 200+ problems solved — building algorithmic intuition |
-
-> *"The best embedded systems are invisible — they just work, reliably, every time."*
+| Focus Area | Engineering Scope | Key Platforms & Tools |
+| :--- | :--- | :--- |
+| 🤖 **Edge AI & TinyML** | Quantized model inference, real-time audio/vision anomaly detection on MCUs | ESP32-S3, TFLite Micro, Edge Impulse, YOLO |
+| 📡 **Industrial IoT & Telemetry** | Multi-sensor telemetry pipelines, long-range decentralized communications | LoRa, ESP-NOW, MQTT, Sensor Fusion |
+| 🏗️ **Embedded Systems & RTOS** | Deterministic process scheduling, device driver authoring, low-power states | QNX RTOS, FreeRTOS, Bare-Metal C/C++ |
+| 🔬 **VLSI & Architecture** | Digital logic design, RTL fundamentals, hardware accelerators, RISC-V | VEGA ARIES V3, Verilog/RTL Concepts |
+| 🧩 **Algorithms & Data Structures** | Algorithmic optimization, time/space trade-offs for embedded performance | 200+ LeetCode problems (C++, Java) |
 
 ---
 
@@ -96,8 +120,13 @@ My engineering philosophy centres on **three pillars**:
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### ⚡ Core Developer Toolchain
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,arduino,tensorflow,linux,mongodb,git,github,vscode&theme=dark" alt="Core Technologies"/>
+</p>
+
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -105,8 +134,7 @@ My engineering philosophy centres on **three pillars**:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-### 🔌 Embedded Platforms
-
+### 🔌 Embedded Platforms & Hardware Silicon
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-S3"/>
@@ -114,8 +142,7 @@ My engineering philosophy centres on **three pillars**:
   <img src="https://img.shields.io/badge/VEGA%20ARIES%20V3-6C3483?style=for-the-badge&logo=microchip&logoColor=white" alt="VEGA ARIES V3"/>
 </p>
 
-### 🤖 AI & Machine Learning
-
+### 🤖 AI, Machine Learning & Computer Vision
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
@@ -123,8 +150,7 @@ My engineering philosophy centres on **three pillars**:
   <img src="https://img.shields.io/badge/Edge%20Impulse-4B0082?style=for-the-badge&logo=edgeimpulse&logoColor=white" alt="Edge Impulse"/>
 </p>
 
-### 🧰 Tools & Development Environment
-
+### 🧰 Tools & Development Environments
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -132,14 +158,14 @@ My engineering philosophy centres on **three pillars**:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-### ⚡ Other Technologies
-
+### ⚡ Systems, Operating Systems & Paradigms
 <p>
   <img src="https://img.shields.io/badge/QNX%20RTOS-000000?style=for-the-badge&logo=blackberry&logoColor=white" alt="QNX"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/IoT%20Architecture-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/TinyML-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TinyML"/>
+  <img src="https://img.shields.io/badge/VLSI%20Fundamentals-4A154B?style=for-the-badge&logo=intel&logoColor=white" alt="VLSI"/>
 </p>
 
 ---
@@ -148,50 +174,48 @@ My engineering philosophy centres on **three pillars**:
 <!--                         FEATURED PROJECTS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Systems
 
-> **Note:** Repository links are verified against public GitHub. Projects without a live link are either in a private repo or will be published soon.
+> **Note on Project Status:** Flagship embedded and edge systems are hardware-tested prototypes developed for competitions and research. Open-source code repositories are actively being documented and published.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌡️ VEGA HEATGUARD</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/>
         <img src="https://img.shields.io/badge/Platform-VEGA%20ARIES%20V3-6C3483?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-TinyML%20%7C%20IoT-4f8ef7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Edge%20AI%20%7C%20TinyML-4f8ef7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Prototype%20Active-4CAF50?style=flat-square"/>
       </p>
       <p>
-        AI-powered <strong>personalized heat-stress early-warning system</strong> for outdoor workers. 
-        Combines biometric sensor fusion with on-device ML inference to predict heat stroke risk 
-        before symptoms manifest — built on the VEGA ARIES V3 RISC-V platform.
+        AI-powered <strong>personalized heat-stress early-warning system</strong> engineered for outdoor industrial and construction workers. Combines ambient environmental telemetry with physiological vitals to calculate real-time exertion strain and predict heat stroke risk before onset.
       </p>
+      <ul>
+        <li><b>Architecture:</b> Runs on India's indigenous VEGA ARIES V3 RISC-V SoC.</li>
+        <li><b>Edge ML:</b> On-chip inference with personalized baseline thresholds.</li>
+        <li><b>Connectivity:</b> LoRa mesh broadcasting to field safety coordinators.</li>
+      </ul>
       <p>
-        <strong>Key highlights:</strong> Real-time physiological monitoring · Personalized risk thresholds · 
-        LoRa alert broadcast · Edge inference with no cloud dependency
-      </p>
-      <p>
-        🔗 <em>Repository — Coming Soon</em>
+        🔗 <i>Repository — Staged for Open-Source Release</i>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🐘 Intelligent Wildlife Intrusion Detection</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/>
         <img src="https://img.shields.io/badge/Platform-ESP32%20%7C%20ESP32--CAM-E7352C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-Edge%20AI%20%7C%20LoRa-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Edge%20Vision%20%7C%20LoRa-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Hardware%20Tested-4CAF50?style=flat-square"/>
       </p>
       <p>
-        Edge AI-powered <strong>elephant detection system</strong> using ESP32, ESP32-CAM and LoRa 
-        mesh networking to help prevent human-elephant conflict at forest boundaries. 
-        Runs YOLO-based inference entirely on-device with sub-second detection latency.
+        Autonomous <strong>Edge AI elephant detection system</strong> deployed along forest-community perimeters to mitigate human-elephant conflict. Executes lightweight computer vision inference on-device to detect approaching wildlife in low-light and dense canopy conditions.
       </p>
+      <ul>
+        <li><b>Vision Engine:</b> Quantized YOLO model running on ESP32-CAM.</li>
+        <li><b>Long-Range Alerts:</b> Decentralized LoRa transmission to village sirens.</li>
+        <li><b>Off-Grid Ready:</b> Ultra-low quiescent current with solar charging logic.</li>
+      </ul>
       <p>
-        <strong>Key highlights:</strong> On-device YOLO inference · LoRa long-range alerts · 
-        Solar-powered deployment · Zero cloud dependency
-      </p>
-      <p>
-        🔗 <em>Repository — Coming Soon</em>
+        🔗 <i>Repository — Staged for Open-Source Release</i>
       </p>
     </td>
   </tr>
@@ -199,41 +223,39 @@ My engineering philosophy centres on **three pillars**:
     <td width="50%" valign="top">
       <h3>⛑️ Smart Helmet Safety System</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Completed-2196F3?style=flat-square"/>
         <img src="https://img.shields.io/badge/Platform-Arduino%20%7C%20ESP32-00878F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-IoT%20%7C%20Sensors-00B4D8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Industrial%20IoT-00B4D8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-2196F3?style=flat-square"/>
       </p>
       <p>
-        IoT-based <strong>worker safety monitoring system</strong> that integrates multi-sensor 
-        hardware into a standard safety helmet. Monitors impact, gas exposure, temperature 
-        and worker posture with real-time cloud telemetry and supervisor alerts.
+        Intelligent <strong>worker safety monitoring system</strong> integrated into industrial protective headgear. Monitors impact force, toxic gas concentrations, ambient temperature, and helmet-wearing compliance in real time.
       </p>
+      <ul>
+        <li><b>Multi-Sensor Fusion:</b> Accelerometer (fall/impact), gas, and thermal sensors.</li>
+        <li><b>Emergency Protocol:</b> Automatic GSM/RF SOS alerts with GPS coordinates.</li>
+        <li><b>Telemetry:</b> MQTT-based dashboard for workplace safety supervisors.</li>
+      </ul>
       <p>
-        <strong>Key highlights:</strong> Multi-sensor fusion · Real-time cloud dashboard · 
-        GSM-based SOS · Helmet integrity detection
-      </p>
-      <p>
-        🔗 <em>Repository — Coming Soon</em>
+        🔗 <i>Repository — Staged for Open-Source Release</i>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚖️ Nyay Drishti</h3>
       <p>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Explainable%20AI%20(XAI)-4f8ef7?style=flat-square"/>
         <img src="https://img.shields.io/badge/Status-Completed-2196F3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-ML%20%7C%20XAI%20%7C%20Python-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Domain-Legal%20AI-4f8ef7?style=flat-square"/>
       </p>
       <p>
-        <strong>Explainable Court Delay Diagnosis</strong> and Undertrial Review Support system. 
-        Leverages interpretable machine learning to identify systemic bottlenecks in judicial 
-        case processing and surface prioritized undertrial review recommendations.
+        <strong>Explainable Court Delay Diagnosis &amp; Undertrial Review Support System</strong>. Employs interpretable machine learning algorithms to audit procedural bottlenecks in judicial caseloads and highlight undertrial cases requiring urgent statutory review.
       </p>
+      <ul>
+        <li><b>XAI Diagnostics:</b> Feature attribution pinpointing systemic adjournments.</li>
+        <li><b>Review Scoring:</b> Risk-weighted undertrial prioritization for legal aid.</li>
+        <li><b>Policy Dashboards:</b> Actionable metrics for judicial administrative reform.</li>
+      </ul>
       <p>
-        <strong>Key highlights:</strong> XAI-driven insights · Policy-actionable outputs · 
-        Undertrial risk scoring · Court data analytics
-      </p>
-      <p>
-        🔗 <em>Repository — Coming Soon</em>
+        🔗 <i>Repository — Staged for Open-Source Release</i>
       </p>
     </td>
   </tr>
@@ -241,36 +263,38 @@ My engineering philosophy centres on **three pillars**:
     <td width="50%" valign="top">
       <h3>🦺 VEGA WORKGUARD</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/>
         <img src="https://img.shields.io/badge/Platform-VEGA%20ARIES%20V3-6C3483?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-Edge%20AI%20%7C%20TinyML-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Edge%20AI%20%7C%20Worker%20Safety-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Active%20Development-4CAF50?style=flat-square"/>
       </p>
       <p>
-        Edge AI-based <strong>worker safety monitoring system</strong> built on the VEGA ARIES V3 
-        RISC-V platform. Uses on-device anomaly detection and posture classification 
-        to identify unsafe worker conditions in real time.
+        Edge AI-driven <strong>worker safety and posture hazard detection engine</strong> engineered on the VEGA ARIES V3 RISC-V platform. Performs on-device anomaly classification to identify dangerous physical stances, fatigue, and exclusion zone violations.
       </p>
+      <ul>
+        <li><b>RISC-V Optimized:</b> Customized integer math routines for inference.</li>
+        <li><b>Low Power:</b> Dynamic frequency scaling during idle shifts.</li>
+        <li><b>Failsafe Architecture:</b> Local buzzer and mesh-transmitted warnings.</li>
+      </ul>
       <p>
-        <strong>Key highlights:</strong> On-device anomaly detection · RISC-V optimized inference · 
-        Low-power continuous monitoring · Industrial-grade reliability
-      </p>
-      <p>
-        🔗 <em>Repository — Coming Soon</em>
+        🔗 <i>Repository — Staged for Open-Source Release</i>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 More Projects</h3>
+      <h3>🌐 Live Public Repositories</h3>
       <p>
-        <img src="https://img.shields.io/badge/Explore%20All-GitHub-181717?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat-square&logo=github"/>
       </p>
       <p>
-        I'm continuously building at the intersection of hardware, firmware, and AI.
-        Check my GitHub profile for the latest repositories, experiments, and open-source contributions.
+        Explore my active public code repositories on GitHub:
       </p>
-      <br/>
+      <ul>
+        <li><a href="https://github.com/Sandeep-loganathan/AI-Vehicle-Detection-System"><b>AI-Vehicle-Detection-System</b></a> — Web-based vehicle detection pipeline using YOLOv8 and Flask with confidence metrics.</li>
+        <li><a href="https://github.com/Sandeep-loganathan/Devsprint_Vertex_Vision"><b>Devsprint_Vertex_Vision (TriageIQ)</b></a> — Evidence-first search triage engine evaluating statistical intent uncertainty.</li>
+        <li><a href="https://github.com/Sandeep-loganathan/hiver"><b>hiver</b></a> — Context-aware AI email analysis and automated response agent via Groq.</li>
+      </ul>
       <p align="center">
         <a href="https://github.com/Sandeep-loganathan?tab=repositories">
-          <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+          <img src="https://img.shields.io/badge/🔍%20Browse%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
         </a>
       </p>
     </td>
@@ -280,85 +304,45 @@ My engineering philosophy centres on **three pillars**:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB STATISTICS                              -->
+<!--                  DEVELOPER ANALYTICS & STATS                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Statistics
+## 📈 Developer Analytics & Problem Solving
 
 <div align="center">
 
+<!-- Side-by-side GitHub Stats and LeetCode Card -->
 <a href="https://github.com/Sandeep-loganathan">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-loganathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=7c5ff5&text_color=c9d1d9&ring_color=4f8ef7" alt="Sandeep's GitHub Stats"/>
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-loganathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=7c5ff5&text_color=c9d1d9&ring_color=4f8ef7" alt="Sandeep's GitHub Stats"/>
 </a>
 &nbsp;
-<a href="https://github.com/Sandeep-loganathan">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandeep-loganathan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&exclude_repo=Sandeep-loganathan" alt="Top Languages"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTION STREAK                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/Sandeep-loganathan">
-  <img src="https://streak-stats.demolab.com/?user=Sandeep-loganathan&theme=tokyonight&hide_border=true&background=0d1117&ring=4f8ef7&fire=a855f7&currStreakLabel=4f8ef7&sideLabels=7c5ff5&dates=8b949e&stroke=21262d" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTION GRAPH                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/Sandeep-loganathan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandeep-loganathan&theme=tokyonight" alt="GitHub Stats Summary" height="165em"/>
-</a>
-&nbsp;
-<a href="https://github.com/Sandeep-loganathan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandeep-loganathan&theme=tokyonight" alt="Most Used Languages by Commit" height="165em"/>
+<a href="https://leetcode.com/u/Sandeep_664/" target="_blank">
+  <img height="185em" src="https://leetcard.jacoblin.cool/Sandeep_664?theme=nord&font=baloo" alt="Sandeep's LeetCode Stats Card"/>
 </a>
 
 <br/><br/>
 
+<!-- Top Languages Card -->
 <a href="https://github.com/Sandeep-loganathan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandeep-loganathan&theme=tokyonight" alt="Repos per Language" height="165em"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandeep-loganathan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&exclude_repo=Sandeep-loganathan" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<!-- Multi-Panel Profile Summary Breakdown -->
+<a href="https://github.com/Sandeep-loganathan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandeep-loganathan&theme=tokyonight" alt="GitHub Profile Summary" height="150em"/>
 </a>
 &nbsp;
 <a href="https://github.com/Sandeep-loganathan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandeep-loganathan&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="165em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandeep-loganathan&theme=tokyonight" alt="Most Used Languages" height="150em"/>
 </a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies & Activity Snake
-
-<div align="center">
-
+&nbsp;
 <a href="https://github.com/Sandeep-loganathan">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-loganathan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&title=Stars,Followers,Commits,Repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandeep-loganathan&theme=tokyonight" alt="Repos per Language" height="150em"/>
 </a>
 
 </div>
-
-<!-- Contribution Snake (auto-generated by GitHub Actions once set up) -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sandeep-loganathan/Sandeep-loganathan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
--->
 
 ---
 
@@ -368,31 +352,35 @@ My engineering philosophy centres on **three pillars**:
 
 ## 🎖️ Achievements & Certifications
 
-### 🏅 Competitions & Awards
+### 🏅 Honors & Competitions
 
-| Award | Event | Detail |
-|-------|-------|--------|
-| 🥇 **First Prize** | Innovasense Software Project Competition | Top performer among all competing teams |
-| 💰 **₹10,000 Cash Prize** | Innovasense | Awarded for outstanding project innovation |
-| 🌟 **Top 50 Selection** | CDAC Vegathon 2026 | Selected among top 50 teams nationally |
-| 💡 **Participant** | SSN Idea Pitch Competition | Presented an innovative engineering concept |
+| Honor / Event | Organization / Context | Impact & Distinction |
+| :--- | :--- | :--- |
+| 🥇 **First Prize Winner** | Innovasense Software Project Competition | Awarded top honors for architectural originality and technical execution |
+| 💰 **₹10,000 Cash Prize** | Innovasense Technical Jury | Recognized as the most impactful project solution of the competition |
+| 🌟 **Top 50 National Selection** | CDAC Vegathon 2026 | Selected among top 50 engineering teams nationwide for RISC-V edge innovation |
+| 💡 **Pitch Participant** | SSN Idea Pitch Competition | Pitched hardware-software innovation for commercial and community impact |
 
-### 💻 Technical Milestones
+### 🧩 Problem Solving & DSA
 
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 200+"/>
+<p align="center">
+  <a href="https://leetcode.com/u/Sandeep_664/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Milestone"/>
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-4f8ef7?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Array%20%7C%20Trees%20%7C%20Graphs%20%7C%20DP-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Topics"/>
 </p>
 
-### 📜 Certifications
+### 📜 Professional Certifications
 
-| Certification | Provider | Domain |
-|--------------|----------|--------|
-| ✅ **QNX Real-Time Programming** | BlackBerry QNX | Real-Time Operating Systems |
-| ✅ **Blockchain and its Applications** | NPTEL (IIT) | Distributed Systems |
-| ✅ **Industry 4.0 & Industrial IoT** | NPTEL (IIT) | Industrial Internet of Things |
-| ✅ **Microsensors and Nanosensors** | NPTEL (IIT) | MEMS & Nanotechnology |
+| Certification Title | Issuing Body | Domain Focus |
+| :--- | :--- | :--- |
+| 🛡️ **QNX Real-Time Programming Certification** | BlackBerry QNX | Real-Time Operating Systems, IPC & Deterministic Scheduling |
+| 🎓 **Blockchain and its Applications** | NPTEL (IIT) | Cryptographic Verification & Distributed Ledger Architectures |
+| 🏭 **Introduction to Industry 4.0 & Industrial IoT** | NPTEL (IIT) | Cyber-Physical Systems, Sensor Networks & Smart Automation |
+| 🔬 **Microsensors and Nanosensors** | NPTEL (IIT) | MEMS Transducers, Nanoscale Sensing & Solid-State Physics |
 
 ---
 
@@ -406,27 +394,27 @@ My engineering philosophy centres on **three pillars**:
 
 <p>
   <a href="https://github.com/Sandeep-loganathan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@Sandeep--loganathan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@Sandeep--loganathan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sandy006" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sandeep_664/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Sandeep__664-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Sandeep__664-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kvgsandeep006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kvgsandeep006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-kvgsandeep006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <br/>
 
 ```
-📬  Open to collaborations in Embedded Systems, IoT, and Edge AI projects.
-     Always happy to connect with engineers, researchers, and innovators!
+📫 Open to collaborations, research discussions, and engineering roles in:
+   Embedded Systems Firmware · Industrial IoT · Edge AI / TinyML · RISC-V Architecture
 ```
 
 </div>
@@ -441,20 +429,19 @@ My engineering philosophy centres on **three pillars**:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Building%20Intelligence%20at%20the%20Edge&fontSize=20&fontColor=4f8ef7&fontAlignY=70&animation=fadeIn" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Engineering%20Intelligence%20at%20the%20Edge&fontSize=20&fontColor=4f8ef7&fontAlignY=70&animation=fadeIn" alt="Footer Banner"/>
 
 <br/>
 
-> *Electronics meets intelligence. Hardware meets software. Theory meets the real world.*
-> 
-> *I engineer solutions that work where it matters — in the field, on the edge, and at the limits of what's possible with constrained hardware.*
+> *"Silicon without intelligence is inert; algorithms without hardware are immaterial.*<br/>
+> *Real engineering happens at their junction — in the physical world, on constrained silicon, where reliability is non-negotiable."*
 
 <br/>
 
 <sub>
-  Designed with ❤️ by <a href="https://github.com/Sandeep-loganathan">Sandeep L</a> &nbsp;·&nbsp;
+  Designed with precision by <a href="https://github.com/Sandeep-loganathan">Sandeep L</a> &nbsp;·&nbsp; 
+  Electronics &amp; Communication Engineering &nbsp;·&nbsp;
   Last updated: November 2026
 </sub>
 
 </div>
-
