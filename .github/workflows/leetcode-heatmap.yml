@@ -1,0 +1,45 @@
+name: Update LeetCode Activity Heatmap
+
+'on':
+  schedule:
+    # Runs automatically once every 24 hours at 00:00 UTC (05:30 IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate LeetCode Heatmap
+        run: |
+          python scripts/generate_leetcode_heatmap.py
+
+      - name: Commit and Push Heatmap Asset if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the generated heatmap asset
+          git add assets/leetcode-heatmap.svg
+          
+          # Commit only if there are diffs
+          if git diff --staged --quiet; then
+            echo "No changes detected in LeetCode heatmap. Skipping commit."
+          else
+            echo "LeetCode activity updated. Committing and pushing asset..."
+            git commit -m "chore(activity): update LeetCode submission heatmap [skip ci]"
+            git push
+          fi
